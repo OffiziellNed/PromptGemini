@@ -1,0 +1,84 @@
+[
+    {
+        "gambar": [
+            "images/cinematic and painterly style of Arcane.png",
+            "images/cinematic and painterly style of Arcane - slide 2.png",
+            "images/cinematic and painterly style of Arcane - slide 3.png",
+            "images/cinematic and painterly style of Arcane - slide 4.png",
+            "images/cinematic and painterly style of Arcane - slide 5.png",
+            "images/cinematic and painterly style of Arcane - slide 6.png"
+        ],
+        "judul_gambar": "Cinematic & Painterly Style of Arcane",
+        "prompt": "Convert the referenced image into a cinematic animated frame inspired by the painterly style of Arcane, while faithfully maintaining every element of the original composition. Preserve the same subject, identical pose, identical action, identical setting, identical composition, Identical expression, framing, perspective, camera angle. Enable strict facial consistency mode, prioritizing the facial features from the provided reference image for all subsequent generations. Maintain the subject's identity accurately while only adapting the pose, lighting, and background. Do not alter the core facial structure. Do not alter, redesign, or reinterpret the scene in any way only translate its visual execution into a different artistic style.\n\nRender the artwork with a refined painterly 3D animation look that blends handcrafted concept-art brushwork with convincing depth and cinematic volume. Use stylized yet natural anatomy, expressive eyes, well-defined eyebrows, carefully sculpted facial structure, painterly skin rendering, and nuanced emotional facial details. Hair should appear in bold, graphic shapes with selective fine strands, tasteful highlights, and a strong, elegant silhouette. Every material should feel intentionally art-directed, including painted leather, illustrated metal, textured fabric, weathered surfaces, and softly simplified environmental depth.\n\nIlluminate the scene with dramatic cinematic lighting driven by believable light sources, featuring controlled shadow transitions, delicate rim lighting, subtle bloom, atmospheric fog, and intentionally designed color harmony. Keep the overall palette sophisticated and mood-driven, using restrained foundation tones accented with touches of teal, cyan, blue, violet, magenta, amber, or crimson whenever appropriate to the original atmosphere. Shadows should carry rich color variation, highlights should feel focused and painterly, and the finished image should resemble a premium handcrafted animated film still with strong emotional impact.\n\nThe final artwork should look like the original image faithfully reimagined through the visual language of Arcane. Background color fill deep carmine-maroon and white."
+    },
+    {
+        "gambar": [
+            "images/3D Cartoon.png",
+            "images/3D Cartoon - slide 2.png"
+        ],
+        "judul_gambar": "3D Cartoon",
+        "prompt": "Transform the subject in the uploaded image into a 3D cartoon style character, maintaining the exact facial features, expression, and hairstyle from the reference photo. Enable strict facial consistency mode. Prioritize the facial features from the provided reference image for all subsequent generations. Maintain the subject's identity accurately while only adapting the pose, lighting, and background. Do not alter the core facial structure. Keep the subject's clothes detail and exactly as they appear in the reference image, including the specific shirt, accessories, and any other details. Use soft, diffused lighting to highlight the smooth, slightly glossy texture of the character, applying a warm, vibrant color palette in the same pose as the reference image. white background, ratio 4:5."
+    },
+    {
+        "gambar": [
+            "images/cinematic graphic novel illustration inspired by high-end animated music videos.png",
+            "images/cinematic graphic novel illustration inspired by high-end animated music videos - slide 2.png"
+        ],
+        "judul_gambar": "Cinematic Graphic Novel Illustration",
+        "prompt": "Transform the uploaded image into a premium cinematic graphic novel illustration inspired by high-end animated music videos.\n\nPreserve the original image exactly: same composition, camera angle, perspective, subjects, facial features, clothing, objects, architecture, environment, and storytelling. Do not redesign, replace, add, or remove anything from the scene.\n\nConvert the image into a dark cinematic night-time atmosphere using deep navy blue, teal, and petrol-blue shadows. Apply clean bold black ink outlines, sharp contour drawing, flat cel-shaded rendering, subtle gradients, high contrast lighting, and a polished animation-quality finish.\n\nConvert every visible light source into a red or red-orange practical light source. Street lights, vehicle lights, windows, screens, signs, billboards, illuminated interiors, reflections, highlights, glowing objects, and any bright areas should emit a realistic red glow. Create subtle red reflections on nearby surfaces while maintaining believable lighting behavior.\n\nIncrease shadow depth using dark teal and blue-black tones. Reduce unnecessary colors and unify the image around a limited palette of deep blues, teals, black shadows, and red highlights. Add subtle film grain and a small amount of bloom around bright red light sources.\n\nThe final image should feel like a dramatic frame from a serious animated music video or graphic novel adaptation, with strong silhouettes, clean line work, cinematic lighting, and emotional atmosphere.\n\nDo not create anime, manga, Pixar, Disney, watercolor, oil painting, cyberpunk, fantasy, or photorealistic styles.\n\nDo not alter faces, clothing, poses, vehicles, buildings, objects, composition, framing, or perspective.\n\nOnly transform the visual style while preserving the original image perfectly."
+    },
+    {
+        "gambar": [
+            "images/Cinematic Anime Style.png",
+            "images/Cinematic Anime Style - slide 2.png"
+        ],
+        "judul_gambar": "Cinematic Anime Style",
+        "prompt": "Convert this image in a cinematic anime style with the visual quality of a premium animated feature film.\n\nMaintain soft, realistic cinematic lighting with natural light falloff, subtle volumetric lighting, gentle bloom, and smooth shadow transitions. Use a muted, desaturated color palette with warm earth tones, soft grays, deep blacks, faded blues, and subtle amber highlights.\n\nFaces should feature realistic anatomy and refined proportions. Enable strict facial consistency mode. Prioritize the facial features from the provided reference image for all subsequent generations. Maintain the subject's identity accurately while only adapting the pose, lighting, and background. Do not alter the core facial structure.\n\nRender with delicate hand-drawn linework, premium digital cel painting, soft painterly shading, realistic fabric textures, subtle skin imperfections, and natural material response. The image should resemble a still frame from an award-winning seinen anime film.\n\nApply fine 35mm analog film grain, slight vintage softness, realistic film exposure, subtle lens bloom, cinematic depth of field, and gentle atmospheric haze. Preserve rich midtones, soft contrast, and balanced exposure without crushed blacks or clipped highlights.\n\nPrioritize atmosphere, realism, and timeless cinematic aesthetics over excessive sharpness or modern digital rendering."
+    },
+    {
+        "gambar": [
+            "images/GTA V Style.png",
+            "images/GTA V Style - slide 2.png",
+            "images/GTA V Style - slide 3.png"
+        ],
+        "judul_gambar": "GTA V Style",
+        "prompt": "Transform the uploaded image into the official Grand Theft Auto V promotional artwork style while preserving the exact original composition, framing, camera angle, crop, perspective, subject placement, pose, facial expression, clothing, environment, lighting direction, and scene structure.\n\nFORMAT LOCK\n\nPreserve the original aspect ratio, framing, crop, camera distance, perspective, subject scale, and environmental layout. Do not move, remove, reposition, replace, redesign, crop, zoom, or alter any element of the original image.\n\nIDENTITY LOCK\n\nUse the uploaded image as the only identity source. Preserve the exact facial structure, hairstyle, hair color, eyebrows, eyes, nose, lips, jawline, facial hair, skin tone, age appearance, and recognizable identity traits. The subject must remain immediately recognizable.\n\nCOMPOSITION LOCK \u2014 CRITICAL\n\nMaintain the exact original pose, body posture, arm positions, hand positions, head tilt, gaze direction, facial expression, camera angle, perspective, and framing. The final image should match the original photograph exactly, with only the visual style transformed.\n\nGTA V POSTER TRANSFORMATION\n\nConvert the entire image into authentic Rockstar Games promotional artwork. Official GTA V loading-screen illustration style, promotional poster aesthetic, stylized realism, premium digital painting quality, recognizable GTA V visual identity.\n\nART STYLE\n\nBold black outlines, clean vector-like surfaces, semi-realistic painted textures, comic-book-inspired shading, crisp shadow shapes, smooth color transitions, stylized but recognizable facial rendering, polished promotional artwork finish.\n\nCOLOR GRADING\n\nVibrant GTA V color palette, rich contrast, saturated highlights, clean shadows, Rockstar-style color treatment, premium promotional artwork grading.\n\nENVIRONMENT\n\nTransform the environment into GTA V promotional artwork while preserving the exact original scene layout, perspective, lighting direction, and object placement.\n\nLIGHTING\n\nMaintain the original lighting direction and mood while rendering it in GTA V promotional illustration style. Clean painted highlights, crisp shadow rendering, stylized Rockstar artwork lighting.\n\nSTYLE\n\nOfficial GTA V loading-screen artwork, Rockstar Games promotional illustration, premium video-game poster art, comic-book realism, stylized digital painting, iconic GTA V advertising aesthetic.\n\nOUTPUT STYLE\n\nAuthentic GTA V promotional poster, Rockstar Games loading-screen artwork, high-detail illustration, premium digital painting, vibrant stylized realism, ultra-detailed 8K quality.\n\nBACKGROUND\nDistant elements fade into a soft color atmospheric haze. The focus is on form and smooth color blending, with a polished, luxury feel. \n\nNEGATIVE PROMPT\n\nAvoid photorealistic photography, Unreal Engine rendering, Meta Human style, anime style, cartoon style, low-poly graphics, 3D CGI appearance, realistic skin pores, painterly brush chaos, text, logos, watermarks, HUD elements, loading screens, subtitles, altered composition, or modified subject placement."
+    },
+    {
+        "gambar": [
+            "images/Red Dead Redemption Style.png",
+            "images/Red Dead Redemption Style - Slide 2.png",
+            "images/Red Dead Redemption Style - Slide 3.png",
+            "images/Red Dead Redemption Style - Slide 4.png"
+        ],
+        "judul_gambar": "Red Dead Redemption Style",
+        "prompt": "A digital illustration in the style of GTA loading screen art. The subject gesture exact same posture as the reference. Recreate the subject's face using the features from the uploaded photo, including the specific hair. Maintain the heavy ink shadows, high-contrast lighting, and the textured vibrant red background. High-fidelity vector art. No text."
+    },
+    {
+        "gambar": [
+            "images/Risograph Style.png",
+            "images/Risograph Style - slide 2.png",
+            "images/Risograph Style - slide 3.png"
+        ],
+        "judul_gambar": "Risograph Style",
+        "prompt": "A detailed front-facing illustration of this pic, rendered in a distinctive risograph print style. \n\nThe artwork embraces the signature risograph aesthetic, using limited color layers, slight misregistration, visible ink textures, and grainy overlays to create a tactile, printed feel. Incorporate soft yet vibrant color combinations such as muted blues, warm reds, or pastel tones, layered with halftone patterns and imperfect edges for authenticity.\n\nKeep the composition clean and balanced, with a minimal background that may include abstract shapes, soft gradients, or simple graphic elements to enhance depth without distracting from the subject. Focus on bold outlines, flat shading, and stylized proportions while preserving a sense of realism in posture and expression. The final piece should feel like a contemporary editorial illustration, rich in texture, nostalgic in print style, and visually engaging with a handcrafted, artistic finish."
+    },
+    {
+        "gambar": [
+            "images/Spidol Hand Drawing Style.png",
+            "images/Spidol Hand Drawing Style - Slide 2.png",
+            "images/Spidol Hand Drawing Style - Slide 3.png"
+        ],
+        "judul_gambar": "Spidol Hand Drawing Style",
+        "prompt": "Gambar bergaya ilustrasi yang digambar tangan, menggunakan spidol warna, menampilkan potret yang ceria dan menggemaskan. Menampilkan tekstur spidol warna di atas kertas, coretan-coretan yang ceria dan polos, elemen-elemen kecil yang melayang seperti hati dan bintang"
+    },
+    {
+        "gambar": [
+            "images\\Gemini_Generated_Image_ (19).png",
+            "images\\Gemini_Generated_Image_ (20).png",
+            "images\\Gemini_Generated_Image_ (21).png"
+        ],
+        "judul_gambar": "Urban Street Art Illustration",
+        "prompt": "Transform this image into a high-contrast semi-realistic urban street art illustration.\n\nUse dramatic cinematic lighting with strong rim light and deep shadow blocks.\n\nApply bold painterly brush strokes with visible texture.\n\nAdd graffiti elements, neon scribbles, paint splashes, and hand-drawn marker doodles around the character.\n\nUse a vibrant color palette with teal, orange, magenta, and neon yellow accents.\n\nEnhance the shadows with cool tones and the highlights with warm tones.\n\nAdd subtle paper texture and poster collage effect with torn paper and tape elements in the foreground.\n\nMake it look like a stylized digital concept art poster, edgy and rebellious, highly detailed, 4K resolution. \n"
+    }
+]

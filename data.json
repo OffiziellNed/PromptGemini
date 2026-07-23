@@ -1,0 +1,82 @@
+[
+    {
+        "gambar": [
+            "images/cinematic and painterly style of Arcane.png",
+            "images/cinematic and painterly style of Arcane - slide 2.png",
+            "images/cinematic and painterly style of Arcane - slide 3.png",
+            "images/cinematic and painterly style of Arcane - slide 4.png",
+            "images/cinematic and painterly style of Arcane - slide 5.png",
+            "images/cinematic and painterly style of Arcane - slide 6.png"
+        ],
+        "judul_gambar": "Cinematic & Painterly Style of Arcane",
+        "prompt": "Convert the referenced image into a cinematic animated frame inspired by the painterly style of Arcane..."
+    },
+    {
+        "gambar": [
+            "images/3D Cartoon.png",
+            "images/3D Cartoon - slide 2.png"
+        ],
+        "judul_gambar": "3D Cartoon",
+        "prompt": "Transform the subject in the uploaded image into a 3D cartoon style character..."
+    },
+    {
+        "gambar": [
+            "images/cinematic graphic novel illustration inspired by high-end animated music videos.png",
+            "images/cinematic graphic novel illustration inspired by high-end animated music videos - slide 2.png"
+        ],
+        "judul_gambar": "Cinematic Graphic Novel Illustration",
+        "prompt": "Transform the uploaded image into a premium cinematic graphic novel illustration..."
+    },
+    {
+        "gambar": [
+            "images/Cinematic Anime Style.png",
+            "images/Cinematic Anime Style - slide 2.png"
+        ],
+        "judul_gambar": "Cinematic Anime Style",
+        "prompt": "Convert this image in a cinematic anime style with the visual quality of a premium animated feature film..."
+    },
+    {
+        "gambar": [
+            "images/GTA V Style.png",
+            "images/GTA V Style - slide 2.png",
+            "images/GTA V Style - slide 3.png"
+        ],
+        "judul_gambar": "GTA V Style",
+        "prompt": "Transform the uploaded image into the official Grand Theft Auto V promotional artwork style..."
+    },
+    {
+        "gambar": [
+            "images/Red Dead Redemption Style.png",
+            "images/Red Dead Redemption Style - Slide 2.png",
+            "images/Red Dead Redemption Style - Slide 3.png",
+            "images/Red Dead Redemption Style - Slide 4.png"
+        ],
+        "judul_gambar": "Red Dead Redemption Style",
+        "prompt": "A digital illustration in the style of GTA loading screen art..."
+    },
+    {
+        "gambar": [
+            "images/Risograph Style.png",
+            "images/Risograph Style - slide 2.png",
+            "images/Risograph Style - slide 3.png"
+        ],
+        "judul_gambar": "Risograph Style",
+        "prompt": "A detailed front-facing illustration of this pic, rendered in a distinctive risograph print style..."
+    },
+    {
+        "gambar": [
+            "images/Spidol Hand Drawing Style.png",
+            "images/Spidol Hand Drawing Style - Slide 2.png",
+            "images/Spidol Hand Drawing Style - Slide 3.png"
+        ],
+        "judul_gambar": "Spidol Hand Drawing Style",
+        "prompt": "Gambar bergaya ilustrasi yang digambar tangan, menggunakan spidol warna, menampilkan potret yang ceria dan menggemaskan..."
+    },
+    {
+        "gambar": [
+            "images\\Gemini_Generated_Image_ (17).png"
+        ],
+        "judul_gambar": "Halo",
+        "prompt": "Halo Nace"
+    }
+]
